@@ -3,5 +3,9 @@ this is my second file
 this is my third file 
 this is my fourth file
 this is my fifth file
+<<<<<<< HEAD
 this is my six file
 
+=======
+this is my seventh file
+>>>>>>> origin/master
